@@ -74,7 +74,18 @@
 
 # 分类正文
 
-详见 [categories/](categories/) 目录，按编号组织，每个分类一个文件。
+每个分类的完整条目清单见 [categories/](categories/) 目录下对应编号文件；下方为各分类精选速览。
+
+## 1. 编程入门（12 个）
+> 从零开始的编程学习路径，精选入门教材与平台。
+
+| 中文名称 | 一句话说明 | 类型 | 语言 | 免费 | 链接 |
+| --- | --- | --- | --- | --- | --- |
+| 慕课网 | 国内知名编程实战课程平台，涵盖多方向入门课 | 课程 | 中文 | ✅ 免费 | http://www.imooc.com/course/list |
+| 计蒜客 | 在线编程学习平台，提供系统化入门教程与练习 | 课程 | 中文 | ✅ 免费 | http://www.jisuanke.com |
+| X 分钟学编程语言（Learn X in Y minutes） | 数十种编程语言的速览式入门教程 | 教程 | 中英 | ✅ 免费 | https://learnxinyminutes.com |
+| 从零造轮子（Build Your Own X） | 汇集从零实现数据库、操作系统、编译器等项目的教程合集 | 合集 | 英文 | ✅ 免费 | https://github.com/codecrafters-io/build-your-own-x |
+| 计算机程序的构造和解释（SICP） | MIT 经典计算机科学教材，深入理解编程本质 | 书籍 | 英文 | ✅ 免费 | https://sarabander.github.io/sicp/html/index.xhtml |
 
 ---
 
