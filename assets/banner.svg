@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400">
+  <rect x="0" y="0" width="1600" height="400" fill="#FAF6EF"/>
+  <circle cx="1450" cy="70" r="70" fill="#F2E8D8"/>
+  <circle cx="1340" cy="210" r="120" fill="none" stroke="#E8E0D2" stroke-width="2"/>
+  <circle cx="1260" cy="310" r="6" fill="#B23A2E"/>
+  <rect x="90" y="96" width="52" height="6" fill="#B23A2E"/>
+  <text x="90" y="172" font-size="64" font-weight="700" fill="#1F1B16"
+        font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">中文免费编程学习资源导航</text>
+  <text x="90" y="232" font-size="26" fill="#1F1B16" opacity="0.68"
+        font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">39.8 万星 free-programming-books 中文精选版 &#183; 350 个免费资源</text>
+  <rect x="90" y="258" width="336" height="46" rx="23" fill="#B23A2E"/>
+  <text x="258" y="288" font-size="24" font-weight="600" fill="#FFFFFF" text-anchor="middle"
+        font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">免费学编程，从这一页开始</text>
+  <text x="1510" y="368" font-size="22" fill="#1F1B16" opacity="0.55" text-anchor="end"
+        font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">free-programming-books-zh</text>
+</svg>
