@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect x="0" y="0" width="1200" height="560" fill="#FAF6EF"/>
+  <rect x="40" y="32" width="1120" height="56" rx="14" fill="#B23A2E"/>
+  <text x="600" y="69" font-size="24" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">从入门到实战 · 四步速览</text>
+  <rect x="40" y="120" width="240" height="390" rx="14" fill="#F2E8D8"/>
+  <circle cx="160" cy="166" r="22" fill="#B23A2E"/>
+  <text x="160" y="174" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">1</text>
+  <text x="160" y="232" font-size="18" font-weight="600" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">编程入门打基础</text>
+  <line x1="90" y1="262" x2="230" y2="262" stroke="#1F1B16" stroke-width="1" opacity="0.15"/>
+  <rect x="85" y="285" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="160" y="304" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">廖雪峰教程</text>
+  <rect x="85" y="323" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="160" y="342" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Python 入门</text>
+  <rect x="85" y="361" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="160" y="380" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">编程导论</text>
+  <rect x="333" y="120" width="240" height="390" rx="14" fill="#E8E0D2"/>
+  <circle cx="453" cy="166" r="22" fill="#B23A2E"/>
+  <text x="453" y="174" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">2</text>
+  <text x="453" y="232" font-size="18" font-weight="600" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">前端/后端挑方向</text>
+  <line x1="383" y1="262" x2="523" y2="262" stroke="#1F1B16" stroke-width="1" opacity="0.15"/>
+  <rect x="378" y="285" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="453" y="304" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">现代 JavaScript</text>
+  <rect x="378" y="323" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="453" y="342" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Vue 入门</text>
+  <rect x="378" y="361" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="453" y="380" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Django 教程</text>
+  <rect x="626" y="120" width="240" height="390" rx="14" fill="#F2E8D8"/>
+  <circle cx="746" cy="166" r="22" fill="#B23A2E"/>
+  <text x="746" y="174" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">3</text>
+  <text x="746" y="232" font-size="18" font-weight="600" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">数据/AI/专项进阶</text>
+  <line x1="676" y1="262" x2="816" y2="262" stroke="#1F1B16" stroke-width="1" opacity="0.15"/>
+  <rect x="671" y="285" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="746" y="304" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">动手学深度学习</text>
+  <rect x="671" y="323" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="746" y="342" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">统计学入门</text>
+  <rect x="671" y="361" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="746" y="380" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">算法图解</text>
+  <rect x="919" y="120" width="240" height="390" rx="14" fill="#E8E0D2"/>
+  <circle cx="1039" cy="166" r="22" fill="#B23A2E"/>
+  <text x="1039" y="174" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">4</text>
+  <text x="1039" y="232" font-size="18" font-weight="600" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">刷题实战做项目</text>
+  <line x1="969" y1="262" x2="1109" y2="262" stroke="#1F1B16" stroke-width="1" opacity="0.15"/>
+  <rect x="964" y="285" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="1039" y="304" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">LeetCode</text>
+  <rect x="964" y="323" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="1039" y="342" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">实战项目</text>
+  <rect x="964" y="361" width="150" height="28" rx="14" fill="#FFFFFF"/>
+  <text x="1039" y="380" font-size="13" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">面试指南</text>
+  <line x1="292" y1="315" x2="314" y2="315" stroke="#B23A2E" stroke-width="3"/>
+  <path d="M 314 309 L 324 315 L 314 321 Z" fill="#B23A2E"/>
+  <line x1="586" y1="315" x2="608" y2="315" stroke="#B23A2E" stroke-width="3"/>
+  <path d="M 608 309 L 618 315 L 608 321 Z" fill="#B23A2E"/>
+  <line x1="878" y1="315" x2="900" y2="315" stroke="#B23A2E" stroke-width="3"/>
+  <path d="M 900 309 L 910 315 L 900 321 Z" fill="#B23A2E"/>
+</svg>
